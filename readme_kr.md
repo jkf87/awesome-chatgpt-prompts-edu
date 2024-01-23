@@ -24,7 +24,7 @@
 
 제가 작성한 무료 전자책인 **"ChatGPT 프롬프트의 기술: 명확하고 효과적인 프롬프트 작성을 위한 가이드"**라는 무료 전자책을 저술했습니다.
 
-무료 전자책 읽기](https://fka.gumroad.com/l/art-of-chatgpt-prompting)**
+[무료 전자책 읽기](https://fka.gumroad.com/l/art-of-chatgpt-prompting)**
 
 ### 나만의 프롬프트 앱을 배포하고 싶으신가요?
 
@@ -36,7 +36,7 @@
 
 저는 **"ChatGPT로 돈을 버는 방법"**이라는 전자책을 저술했습니다: 전략, 팁, 전술"**이라는 전자책을 저술했습니다.
 
-전자책 구매하기](https://fka.gumroad.com/l/how-to-make-money-with-chatgpt)**
+[전자책 구매하기](https://fka.gumroad.com/l/how-to-make-money-with-chatgpt)**
 
 ---
 
@@ -46,7 +46,7 @@
 
 저는 **"미드저니 AI의 기술: 텍스트로 이미지를 만드는 가이드"**라는 전자책을 저술했습니다.
 
-전자책 읽어보기](https://fka.gumroad.com/l/the-art-of-midjourney-ai-guide-to-creating-images-from-text)**
+[전자책 읽어보기](https://fka.gumroad.com/l/the-art-of-midjourney-ai-guide-to-creating-images-from-text)**
 
 ---
 
