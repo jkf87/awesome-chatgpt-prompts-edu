@@ -28,7 +28,7 @@
 
 ### 나만의 프롬프트 앱을 배포하고 싶으신가요?
 
-Steamship](https://www.steamship.com/build?utm_source=github&utm_medium=explainer&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts)의 직원들이 여러분의 GPT 앱을 호스팅하고 공유할 수 있는 프레임워크를 만들었습니다. 이 저장소를 후원하여 최신 GPT 모델에 대한 무료(하루 최대 500콜) 액세스를 제공하고 있습니다.  
+[Steamship](https://www.steamship.com/build?utm_source=github&utm_medium=explainer&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts)의 직원들이 여러분의 GPT 앱을 호스팅하고 공유할 수 있는 프레임워크를 만들었습니다. 이 저장소를 후원하여 최신 GPT 모델에 대한 무료(하루 최대 500콜) 액세스를 제공하고 있습니다.  
 
 👷‍♂️ **[나만의 GPT 프롬프트 앱 만들기](https://www.steamship.com/build?utm_source=github&utm_medium=explainer&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts)**
 
