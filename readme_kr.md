@@ -4,7 +4,7 @@
 
 "멋진 ChatGPT 프롬프트" 저장소에 오신 것을 환영합니다! 이곳은 ChatGPT 모델과 함께 사용할 수 있는 프롬프트 예제 모음입니다.
 
-ChatGPT](https://chat.openai.com/chat) 모델은 사람과 유사한 텍스트를 생성할 수 있는 [OpenAI](https://openai.com)에 의해 학습된 대규모 언어 모델입니다. 프롬프트를 제공하면 대화를 계속하거나 주어진 프롬프트에서 확장된 응답을 생성할 수 있습니다.
+[ChatGPT](https://chat.openai.com/chat) 모델은 사람과 유사한 텍스트를 생성할 수 있는 [OpenAI](https://openai.com)에 의해 학습된 대규모 언어 모델입니다. 프롬프트를 제공하면 대화를 계속하거나 주어진 프롬프트에서 확장된 응답을 생성할 수 있습니다.
 
 이 저장소에서는 ChatGPT와 함께 사용할 수 있는 다양한 프롬프트를 찾을 수 있습니다. 목록에 [나만의 프롬프트를 추가](https://github.com/f/awesome-chatgpt-prompts/edit/main/README.md)하고, ChatGPT를 사용하여 새로운 프롬프트를 생성하는 것도 좋습니다.
 
